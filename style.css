@@ -1,0 +1,32 @@
+
+body {
+  background-color: rgba(28, 212, 188, 0.933);
+  color: white;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+div {
+  margin-top: 1em !important;
+  width: 80%;
+  margin: 0 auto;
+}
+
+li {
+  list-style: none;
+  display: flex;
+  gap: 1em;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-bottom: 1em;
+}
+
+h2 {
+  width: 100%;
+  text-align: center;
+}
